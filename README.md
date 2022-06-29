@@ -1,2 +1,7 @@
+# ! WARNING ! >>> THIS PROGRAM CONTAINS FLASHING LIGHTS! <<<
+
+<hr>
+
 # Dubzy
-A small little GDI program that is pretty fun to watch. READ DESC
+
+### A small GDI centered program made in python.
